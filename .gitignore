@@ -1,0 +1,13 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+venv/
+ENV/
+.env/
+
+# IDE files
+*.idea/
+*.vscode/
